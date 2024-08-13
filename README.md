@@ -33,7 +33,7 @@ Pollen / Allergy Report
 
 Traffic Report (Likely manual)
 
-Space Weather
+Space Weather (Satellite viewings, Aurora Borealis, Solar / Lunar Eclipse, Moon Phase)
 
 ### Seasonal:
 
