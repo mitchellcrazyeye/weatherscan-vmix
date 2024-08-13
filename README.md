@@ -10,7 +10,7 @@ If you know scripting, feel free to help!
 
 I'll build this out more when I actually start the project.
 
-The pages listed below are the hopeful end goal. I have my doubts that everything will be possible, but as I continue work, I'll see what I can make happen.
+The pages listed below are the hopeful end goal. I have my doubts that everything will be possible, but as I continue work, I'll see what I can make happen. These are in a non-specific order until implemented.
 
 ### Weather Alerts should interrupt any current flow - showing full alert notification and hopefully radar / alert polygon. If an alert has been updated or extended, a narrating voice should take over and say as much. (with the alert scrolling on the bottom) Alert cancelled should possibly play a graphic with an narrating voice saying as much. 
 
@@ -28,6 +28,12 @@ Radar Loop (Close)
 Today's Forecast
 
 7 Day Forecast
+
+Pollen / Allergy Report
+
+Traffic Report (Likely manual)
+
+Space Weather
 
 ### Seasonal:
 
