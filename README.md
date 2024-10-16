@@ -40,4 +40,5 @@ Space Weather (Satellite viewings, Aurora Borealis, Solar / Lunar Eclipse, Moon 
 Spring - Fall:
 
 Beach Conditions (Lake Michigan)
+Water Spout Possibilities (Lake Michigan)
 
