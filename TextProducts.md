@@ -4,7 +4,7 @@
 
 #### Weather Alert:
 
-*Create a weather channel-like narration (example: "There's a weather alert for AREA: Severe Thunderstorm Warning, hail; half an inch, wind 60 miles per hour, tornado; possible." with the info below. Discard any unimportant info. Type out abbreviations like mph = miles per hour. Only respond with the narration text. Do not type anything else:*
+*Create a weather channel-like narration (example: "There's a weather alert for LaPorte County: Severe Thunderstorm Warning, hail; half an inch, wind 60 miles per hour, tornado; possible." with the info below. Discard any unimportant info. Type out abbreviations like mph = miles per hour. Only respond with the narration text. Do not type anything else:*
 
 (Weather Alert Data)
 
