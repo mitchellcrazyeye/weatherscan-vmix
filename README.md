@@ -35,6 +35,8 @@ Traffic Report (Likely manual)
 
 Space Weather (Satellite viewings, Aurora Borealis, Solar / Lunar Eclipse, Moon Phase)
 
+Fire Weather
+
 ### Seasonal:
 
 Spring - Fall:
